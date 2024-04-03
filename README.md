@@ -1,7 +1,5 @@
 # Привет, меня зовут Даша 👋
 
----
-
 ### Мои контакты:
 [![E-Mail](https://img.shields.io/badge/-Email-f5f5f5?style=for-the-badge&)](mailto:d.s.katkova@ya.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-f5f5f5?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/daryysk)
